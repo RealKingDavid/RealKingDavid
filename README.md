@@ -2,7 +2,7 @@
 
 I'm David.
 
-I work at the intersection of data, models, and meaning. By day, I explore statistical modeling, optimization, and data science (with a soft spot for open source and healthcare). By night, I write poetry, essays, and ideas that live somewhere between logic and imagination.
+I live where data, models, and meaning meet. By day, I explore statistical modeling, optimization, and data science (with a soft spot for open source and healthcare). By night, I write poetry, essays, and ideas that live somewhere between logic and imagination.
 
 This GitHub is my workbench: experiments, code that actually runs, research notes, books, and the occasional side quest. If you’re into stats, data science, curious questions, storytelling and thoughtful problem-solving, you’re in the right place.
 
