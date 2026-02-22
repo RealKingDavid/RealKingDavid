@@ -1,6 +1,6 @@
 ## Hello, friends from far and near. 
 
-[Banner](./banner.png)
+![Banner](./banner.png)
 
 I'm David.
 
