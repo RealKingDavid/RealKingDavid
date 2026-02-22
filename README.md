@@ -6,7 +6,7 @@ I live where data, models, and meaning meet. By day, I explore statistical model
 
 This GitHub is my workbench: experiments, code that actually runs, research notes, books, and the occasional side quest. If you’re into stats, data science, curious questions, storytelling and thoughtful problem-solving, you’re in the right place.
 
-🚀 Always learning. Occasionally overthinking. Constantly building.
+Always learning. Occasionally overthinking. Constantly building.
 
 <!--
 **RealKingDavid/RealKingDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
