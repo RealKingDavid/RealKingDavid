@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello, friends from far and near. 
+
+I'm David.
+
+I work at the intersection of data, models, and meaning. By day, I explore statistical modeling, optimization, and data science (with a soft spot for healthcare and reliability models). By night, I write—poetry, essays, and ideas that live somewhere between logic and imagination.
+
+This GitHub is my workbench: experiments, code that actually runs (most days), research notes, and the occasional side quest. If you’re into clean math, curious questions, and thoughtful problem-solving, you’re in the right place.
+
+🚀 Always learning. Occasionally overthinking. Constantly building.
 
 <!--
 **RealKingDavid/RealKingDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
